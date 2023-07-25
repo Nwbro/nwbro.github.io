@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.149.220",
-            "port": "8000",
-            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
+            "server": "51.159.153.28",
+            "port": "7172",
+            "secret": "eed302b5b9ed01a88bdc90e74e3a48e7b57777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.153.28&port=7172&secret=eed302b5b9ed01a88bdc90e74e3a48e7b57777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -67,9 +67,9 @@
             "server": "fixhm.zula.ir.clinic.maskancto.com.fekreto.com.puadhesives.c_om.chapotarahi.ir.smsariaads.ir.qazvin-ads.ir.rcs-co.ir.smarterco.ir.members-ii_ia.ir.faraboom.co.msp.co.ir.partoshar.ir.biakooh.ir.hesabdaran-shargh.ir.kermannylon.com.king-gb1098.motorcycles",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=fixhm.zula.ir.clinic.maskancto.com.fekreto.com.puadhesives.c_om.chapotarahi.ir.smsariaads.ir.qazvin-ads.ir.rcs-co.ir.smarterco.ir.members-ii_ia.ir.faraboom.co.msp.co.ir.partoshar.ir.biakooh.ir.hesabdaran-shargh.ir.kermannylon.com.king-gb1098.motorcycles&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=fixhm.zula.ir.clinic.maskancto.com.fekreto.com.puadhesives.c_om.chapotarahi.ir.smsariaads.ir.qazvin-ads.ir.rcs-co.ir.smarterco.ir.members-ii_ia.ir.faraboom.co.msp.co.ir.partoshar.ir.biakooh.ir.hesabdaran-shargh.ir.kermannylon.com.king-gb1098.motorcycles&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -367,9 +367,21 @@
             "server": "www.cloudscene.com.lechef-ir.info",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB2YW4ubmFqdmEuY29t",
-            "name": "@PinkProxy|\ud83d\udea9"
+            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.cloudscene.com.lechef-ir.info&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB2YW4ubmFqdmEuY29t&@PinkProxy|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.cloudscene.com.lechef-ir.info&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB2YW4ubmFqdmEuY29t&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "116.202.199.219",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add666172616B61762E636F6D",
+            "name": "@V2rayng_Fast|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=116.202.199.219&port=443&secret=ee1603010200010001fc030386e24c3add666172616B61762E636F6D&@V2rayng_Fast|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
