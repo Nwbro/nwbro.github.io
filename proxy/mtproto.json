@@ -4,12 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.149.220",
-            "port": "8000",
-            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
+            "server": "34.234.78.15",
+            "port": "443",
+            "secret": "ee000000000000000000000000000000007765622e62616c652e696f",
+            "name": "@GlypeX|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=34.234.78.15&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f&@GlypeX|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "51.159.165.172",
+            "port": "7549",
+            "secret": "eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -22,18 +34,6 @@
             "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=www.info.digikala.ir.api-bmi-ir.info.&port=443&secret=ee3337be7cb92497fe8f9e85765c0e014d7777772e7370656564746573742e6e6574&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "iran.sadatnews.lflinkup.org",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574",
-            "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=iran.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574&@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -55,9 +55,9 @@
             "server": "knsms.ir.ftet.ir.iranfrotel.com.bestholdingco.com.negarelaser.com.sadedanesh.ir.fanava.cloud.sadeghvb.ir.hifly.ir.vahidielectric.ir.asim-ac.ir.nikyadk.com.tandistoos.ir.ofogh-energy.com.iuid.ir.mosame.ir.matia-academy.ir.javidins.ir.taramarket.marketing.",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=knsms.ir.ftet.ir.iranfrotel.com.bestholdingco.com.negarelaser.com.sadedanesh.ir.fanava.cloud.sadeghvb.ir.hifly.ir.vahidielectric.ir.asim-ac.ir.nikyadk.com.tandistoos.ir.ofogh-energy.com.iuid.ir.mosame.ir.matia-academy.ir.javidins.ir.taramarket.marketing.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=knsms.ir.ftet.ir.iranfrotel.com.bestholdingco.com.negarelaser.com.sadedanesh.ir.fanava.cloud.sadeghvb.ir.hifly.ir.vahidielectric.ir.asim-ac.ir.nikyadk.com.tandistoos.ir.ofogh-energy.com.iuid.ir.mosame.ir.matia-academy.ir.javidins.ir.taramarket.marketing.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -67,9 +67,9 @@
             "server": "PM.surprise.advice.distinct.window.yeah.free-tieraw.cfd",
             "port": "443",
             "secret": "7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyMTProto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=PM.surprise.advice.distinct.window.yeah.free-tieraw.cfd&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=PM.surprise.advice.distinct.window.yeah.free-tieraw.cfd&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t&@ProxyMTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -139,9 +139,9 @@
             "server": "chromeproxy.serverchrome.ewpn2vix.co.uk.",
             "port": "443",
             "secret": "7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA",
-            "name": "@TelMTProto|\ud83d\udea9"
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=chromeproxy.serverchrome.ewpn2vix.co.uk.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA&@TelMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=chromeproxy.serverchrome.ewpn2vix.co.uk.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuc3BlZWR0ZXN0Lm5ldA&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -178,6 +178,18 @@
             "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=188.40.234.21&port=8585&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "iran.sadatnews.lflinkup.org",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574",
+            "name": "@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=iran.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574&@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
