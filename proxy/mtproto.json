@@ -4,24 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "18.236.201.91",
+            "server": "3.141.193.244",
             "port": "443",
             "secret": "ee000000000000000000000000000000007765622e62616c652e696f",
-            "name": "@GlypeX|\ud83d\udea9"
+            "name": "@GlypeX|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=18.236.201.91&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f&@GlypeX|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=3.141.193.244&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f&@GlypeX|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.165.172",
-            "port": "7549",
-            "secret": "eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d",
+            "server": "51.159.149.220",
+            "port": "8000",
+            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -67,21 +67,9 @@
             "server": "nicegift.ir.sooziland.com.micro_n-co.com.maji_dphp.ir.masje_dbook.ir.tepcom.ir.pfjco.com.melalkharid.ir.iphone_video.ir.alobo_sch.ir.manestan.com.iranjobino.ir.takamul.ir.wfkbf.org.ira_nbloger.com.sakagas.ir.neghabcity.ir.in1min.com.panelmarzban.website.",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=nicegift.ir.sooziland.com.micro_n-co.com.maji_dphp.ir.masje_dbook.ir.tepcom.ir.pfjco.com.melalkharid.ir.iphone_video.ir.alobo_sch.ir.manestan.com.iranjobino.ir.takamul.ir.wfkbf.org.ira_nbloger.com.sakagas.ir.neghabcity.ir.in1min.com.panelmarzban.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83d\udea9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "20script.ir.hccucxu.info.",
-            "port": "8010",
-            "secret": "ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddf4"
-        },
-        "link": "https:\/\/t.me\/proxy?server=20script.ir.hccucxu.info.&port=8010&secret=ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d&@ProxyMTProto|\ud83c\udde9\ud83c\uddf4"
+        "link": "https:\/\/t.me\/proxy?server=nicegift.ir.sooziland.com.micro_n-co.com.maji_dphp.ir.masje_dbook.ir.tepcom.ir.pfjco.com.melalkharid.ir.iphone_video.ir.alobo_sch.ir.manestan.com.iranjobino.ir.takamul.ir.wfkbf.org.ira_nbloger.com.sakagas.ir.neghabcity.ir.in1min.com.panelmarzban.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -148,6 +136,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "20script.ir.hccucxu.info.",
+            "port": "8010",
+            "secret": "ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d",
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddf4"
+        },
+        "link": "https:\/\/t.me\/proxy?server=20script.ir.hccucxu.info.&port=8010&secret=ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d&@TelMTProto|\ud83c\udde9\ud83c\uddf4"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "37.27.18.198",
             "port": "443",
             "secret": "eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972",
@@ -163,9 +163,9 @@
             "server": "zarparanmehr.com.ihma.ir.printsobhan.com.smbt.ir.dakar0_21.ir.elecsource.ir.felezvarzan.ir.shilafathali.com.karazmode.ir.neka.ir.parmedco.ir.alihassan_loo.com.gallerybahar.ir.batarinha.ir.adan-co.ir.2jb.ir.abifanshop.ir.happyclan.ir.panelmarzban.website.",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83d\udea9"
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=zarparanmehr.com.ihma.ir.printsobhan.com.smbt.ir.dakar0_21.ir.elecsource.ir.felezvarzan.ir.shilafathali.com.karazmode.ir.neka.ir.parmedco.ir.alihassan_loo.com.gallerybahar.ir.batarinha.ir.adan-co.ir.2jb.ir.abifanshop.ir.happyclan.ir.panelmarzban.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=zarparanmehr.com.ihma.ir.printsobhan.com.smbt.ir.dakar0_21.ir.elecsource.ir.felezvarzan.ir.shilafathali.com.karazmode.ir.neka.ir.parmedco.ir.alihassan_loo.com.gallerybahar.ir.batarinha.ir.adan-co.ir.2jb.ir.abifanshop.ir.happyclan.ir.panelmarzban.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -175,9 +175,9 @@
             "server": "drmaryametemadi.com.fanavasystem.net.kalamob.com.patpet.ir.wotel.co.sunny24.ir.doormat1.com.sabademobile.com.infinityfarsi.com.sardashttvto.ir.kouroshsign.com.acmsolver.ir.arsham-jewellery.com.maralkish.ir.shahingasht.net.sebtco.com.panelmarzban.website.",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+            "name": "@MTP_roto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=drmaryametemadi.com.fanavasystem.net.kalamob.com.patpet.ir.wotel.co.sunny24.ir.doormat1.com.sabademobile.com.infinityfarsi.com.sardashttvto.ir.kouroshsign.com.acmsolver.ir.arsham-jewellery.com.maralkish.ir.shahingasht.net.sebtco.com.panelmarzban.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=drmaryametemadi.com.fanavasystem.net.kalamob.com.patpet.ir.wotel.co.sunny24.ir.doormat1.com.sabademobile.com.infinityfarsi.com.sardashttvto.ir.kouroshsign.com.acmsolver.ir.arsham-jewellery.com.maralkish.ir.shahingasht.net.sebtco.com.panelmarzban.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -319,9 +319,9 @@
             "server": "Aloudflare.com.nokia.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.hbhb-b9hb.sbs.",
             "port": "7443",
             "secret": "ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D",
-            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
+            "name": "@PinkProxy|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=Aloudflare.com.nokia.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.hbhb-b9hb.sbs.&port=7443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=Aloudflare.com.nokia.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.hbhb-b9hb.sbs.&port=7443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D&@PinkProxy|\ud83d\udea9"
     },
     {
         "scheme": "https",
