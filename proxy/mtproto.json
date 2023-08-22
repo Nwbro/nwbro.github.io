@@ -4,6 +4,30 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "3.145.83.27",
+            "port": "443",
+            "secret": "ee000000000000000000000000000000007765622e62616c652e696f",
+            "name": "@GlypeX|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=3.145.83.27&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f&@GlypeX|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "fullnetwork.etherminer.lol",
+            "port": "443",
+            "secret": "7jK5IN_7UWQwKOL2uHjU6sEgICAgIA",
+            "name": "@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=fullnetwork.etherminer.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgIA&@GlypeX|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "new.shaparakblog.mynumber.org",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574",
@@ -223,9 +247,9 @@
             "server": "Full-Vasl.mci.ir.10.110.10.1.mcinet.co.uk.farsi-font.ir.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t",
-            "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
+            "name": "@proxyhubs|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=Full-Vasl.mci.ir.10.110.10.1.mcinet.co.uk.farsi-font.ir.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t&@proxyhubs|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=Full-Vasl.mci.ir.10.110.10.1.mcinet.co.uk.farsi-font.ir.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t&@proxyhubs|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -238,6 +262,18 @@
             "name": "@ProxyDaemi|\ud83c\uddf9\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=194.116.191.161&port=6968&secret=197f867ad8615535dd301fd69d247070&@ProxyDaemi|\ud83c\uddf9\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "159.69.9.160",
+            "port": "6968",
+            "secret": "8232ac80dc15c4c6f89432b6be388be5",
+            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=159.69.9.160&port=6968&secret=8232ac80dc15c4c6f89432b6be388be5&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
