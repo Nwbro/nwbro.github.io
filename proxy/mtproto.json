@@ -4,12 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.153.28",
-            "port": "7172",
-            "secret": "eed302b5b9ed01a88bdc90e74e3a48e7b57777772e736974652e636f6d",
+            "server": "77.246.105.81",
+            "port": "7980",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@GlypeX|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=77.246.105.81&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA&@GlypeX|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "51.159.165.172",
+            "port": "7549",
+            "secret": "eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.153.28&port=7172&secret=eed302b5b9ed01a88bdc90e74e3a48e7b57777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -43,9 +55,9 @@
             "server": "omdeehkala.ir.babyturkey.ir.gfsd.ir.taghara.ir.darkick.uk.ahvazsms.ir.tehrani1350.com.hammered.ir.karavi.ir.snuggie.ir.ahraz14.ir.p_er_secylinder.com.edaranta_jhiz.ir.jahanifard.ir.takamul.ir.masjed007860.ir.ir-psri.com.jivar3d.ir.simocablezeraat.expert.",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyMTProto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=omdeehkala.ir.babyturkey.ir.gfsd.ir.taghara.ir.darkick.uk.ahvazsms.ir.tehrani1350.com.hammered.ir.karavi.ir.snuggie.ir.ahraz14.ir.p_er_secylinder.com.edaranta_jhiz.ir.jahanifard.ir.takamul.ir.masjed007860.ir.ir-psri.com.jivar3d.ir.simocablezeraat.expert.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=omdeehkala.ir.babyturkey.ir.gfsd.ir.taghara.ir.darkick.uk.ahvazsms.ir.tehrani1350.com.hammered.ir.karavi.ir.snuggie.ir.ahraz14.ir.p_er_secylinder.com.edaranta_jhiz.ir.jahanifard.ir.takamul.ir.masjed007860.ir.ir-psri.com.jivar3d.ir.simocablezeraat.expert.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
