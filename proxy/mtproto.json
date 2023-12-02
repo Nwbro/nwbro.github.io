@@ -4,36 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "195.201.253.38",
-            "port": "443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=195.201.253.38&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "51.159.149.220",
-            "port": "8000",
-            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
-            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "65.21.239.223",
             "port": "80",
             "secret": "3RYDAQIAAQAB_AMDhuJMOt0=",
             "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=65.21.239.223&port=80&secret=3RYDAQIAAQAB_AMDhuJMOt0=&@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "ihma.ir.arrowabg.com.vpa-co.com.nafaspourmatin.com.tarikhgozar.com.newsmail.ir.deeaco.ir.radmanfeed.com.alirezaamoon.ir.yosdata.com.tavanyaran.ir.rtspco.com.farassoohost.ir.khodaverdian.online.tstfoods.com.rankingup.ir.fastsharzh.com.hajiabadmarket.info",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=ihma.ir.arrowabg.com.vpa-co.com.nafaspourmatin.com.tarikhgozar.com.newsmail.ir.deeaco.ir.radmanfeed.com.alirezaamoon.ir.yosdata.com.tavanyaran.ir.rtspco.com.farassoohost.ir.khodaverdian.online.tstfoods.com.rankingup.ir.fastsharzh.com.hajiabadmarket.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -58,6 +46,18 @@
             "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=oco.ir.popalhafizi.com.khabarbeladeshapoor.ir.upvccenter.com.afkco.com.chemehome.ir.danes_hjooland.ir.meraatco.com.destinamezon.ir.fcall.ir.secureguard.tech.raymoj.ir.zamzamghadir.ir.2lfin.com.blisanco.com.asrzagros.ir.ariamahankabir.com.zaafrankar.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "jilan.co.allmob.net.badilgostar.com.solar-group.ir.skechersmashad.ir.vastaco.ir.borhantanposh.ir.aquajetiran.com.rahman.ac.ir.lilmedia.ir.bebeeno.org.technotel.ir.demancegroup.com.honartandis.com.calco.ir.anahidstudio.com.elennar9.ir.hajiabadmarket.info",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=jilan.co.allmob.net.badilgostar.com.solar-group.ir.skechersmashad.ir.vastaco.ir.borhantanposh.ir.aquajetiran.com.rahman.ac.ir.lilmedia.ir.bebeeno.org.technotel.ir.demancegroup.com.honartandis.com.calco.ir.anahidstudio.com.elennar9.ir.hajiabadmarket.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -142,6 +142,18 @@
             "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=65.109.142.141&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "157.90.112.38",
+            "port": "8085",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=157.90.112.38&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
