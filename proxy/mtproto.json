@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.149.220",
-            "port": "8000",
-            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
+            "server": "51.159.165.172",
+            "port": "7549",
+            "secret": "eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -187,9 +187,9 @@
             "server": "vidco.ir.drmohammadpour.ir.hasirbafi.ir.shirinmaneshgaz.com.salehgroup.ir.tpran.com.faramofid.com.leowithleo.ir.livesu_pp.net.obgiran.com.borhan_tanposhan.ir.anajshop.ir.silvis.ir.off-sat.com.ardsefidmahdasht.com.septonet.ir.ketaabdaar.ir.almamobile.sbs",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=vidco.ir.drmohammadpour.ir.hasirbafi.ir.shirinmaneshgaz.com.salehgroup.ir.tpran.com.faramofid.com.leowithleo.ir.livesu_pp.net.obgiran.com.borhan_tanposhan.ir.anajshop.ir.silvis.ir.off-sat.com.ardsefidmahdasht.com.septonet.ir.ketaabdaar.ir.almamobile.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=vidco.ir.drmohammadpour.ir.hasirbafi.ir.shirinmaneshgaz.com.salehgroup.ir.tpran.com.faramofid.com.leowithleo.ir.livesu_pp.net.obgiran.com.borhan_tanposhan.ir.anajshop.ir.silvis.ir.off-sat.com.ardsefidmahdasht.com.septonet.ir.ketaabdaar.ir.almamobile.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -418,6 +418,18 @@
             "name": "@PinkProxy|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=95.216.210.23&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "65.21.148.15",
+            "port": "443",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@PinkProxy|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=65.21.148.15&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
