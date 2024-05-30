@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "65.108.80.13",
+            "port": "443",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=65.108.80.13&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "128.140.13.248",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
@@ -16,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "51.159.149.220",
-            "port": "8000",
-            "secret": "eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d",
+            "server": "51.159.166.112",
+            "port": "7603",
+            "secret": "ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d",
             "name": "@GlypeX|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d&@GlypeX|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -184,18 +196,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "broker549.ir.trip-time.ir.matinruyan.com.titangym1.com.titio.ir.khodadadian.space.iranlabex.ir.hadafsoo.ir.seezan.ir.asim-ac.ir.scarfmuharram.ir.fooladzadehcarpet.com.gardeshnoor.com.kianadltoos.com.tisblock.ir.nokhbehcenter.com.mangeasuatechcloud.cloud",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=broker549.ir.trip-time.ir.matinruyan.com.titangym1.com.titio.ir.khodadadian.space.iranlabex.ir.hadafsoo.ir.seezan.ir.asim-ac.ir.scarfmuharram.ir.fooladzadehcarpet.com.gardeshnoor.com.kianadltoos.com.tisblock.ir.nokhbehcenter.com.mangeasuatechcloud.cloud&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "69.197.146.180",
             "port": "443",
             "secret": "eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267",
@@ -238,18 +238,6 @@
             "name": "@proxyhubs|\ud83c\uddf2\ud83c\udde9"
         },
         "link": "https:\/\/t.me\/proxy?server=185.115.161.96&port=67&secret=FgMBAgABAAH8AwOG4kw63Q&@proxyhubs|\ud83c\uddf2\ud83c\udde9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.",
-            "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@ProxyDaemi|\ud83c\uddf8\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyDaemi|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",
